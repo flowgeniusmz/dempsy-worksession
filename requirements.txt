@@ -1,0 +1,6 @@
+streamlit
+openai
+tavily-python
+pandas
+simple-salesforce
+supabase
